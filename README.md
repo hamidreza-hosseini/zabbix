@@ -1,5 +1,3 @@
-![header](images/header.svg)
-
 # Zabbix notifications to:
 
 - Skype
